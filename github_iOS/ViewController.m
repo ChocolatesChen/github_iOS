@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     // This is initialize creation（这是一个初始化创建）
     // This is first change（这是一次修改）
+    // This is second change（这是二次修改）
 }
 
 - (void)didReceiveMemoryWarning {
